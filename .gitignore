@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# IDE project files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets and logs
+.env
+api_response.log
+
+# Generated output
+result/

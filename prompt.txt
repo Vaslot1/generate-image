@@ -1,0 +1,38 @@
+TASK
+You will receive one or more reference photos of the same person. Fuse them into a single consistent identity and generate EXACTLY ONE final image in the specified retro-futurist poster style.
+
+SUBJECT
+STARSHIP CAPTAIN — Calm authority, gaze off-frame. Orange exosuit with chrome collar ring, polished enamel chest plates, mission insignia, subtle illuminated seams. Background: orbital docks with cinematic lighting and a thin rocket trail past a bright moon.
+
+REFERENCE HANDLING
+• Treat all provided images as the same person.
+• Identity anchor: use the clearest, most front-facing photo as the primary reference.
+• Use other angles only to refine details (profile → nose/jaw; three-quarter → cheekbones; from above → hairline; from below → jaw/neck).
+• If some views are missing, infer from available references without exaggeration.
+• Keep hairstyle and facial hair exactly as in the majority of references (no invention/removal).
+• Normalize expression to calm, confident; eyes open, neutral mouth.
+• Correct perspective/lens distortions from extreme angles; keep natural proportions.
+• Gender and age must match the references.
+
+STYLE
+Retro-futurism / atompunk, mid-century sci-fi poster. Heroic, optimistic tone.
+Stylized cinematic shading with clean edges and smooth but simplified transitions.
+Simplified tonal depth: 6–10 tone bands per color, giving a poster-like aesthetic without flat cartoon style.
+Cinematic film influence: strong 3/4 key light, cool rim reflections on chrome, high contrast, gentle bloom on highlights.
+Materials: enamel-painted metal, polished chrome, visible screws, rivets, tubes and cabling with stylized reflections.
+Palette: warm accents (red, orange, ochre) vs cool tones (teal, turquoise, steel grey, beige), ~70/30 warm–cool balance.
+Surface detail: glossy speculars, fine scratches, subtle edge wear; retain stylized realism, not pure vector flatness.
+
+FACE & LIKENESS
+• Preserve identity faithfully (face shape, features, skin tone, age range).
+• Light youth retouch: smooth fine lines, reduce under-eye shadows, soften nasolabial folds, even skin tone; keep pores/skin texture. Target ≈ 10 years younger.
+• Do NOT alter bone structure or feature sizes. Keep distinctive marks (moles/freckles/scars).
+
+GLOBAL RULES
+No helmet or headgear. No goggles/visors. Chest-up hero framing, slight low angle (50–85 mm lens feel). No text or logos.
+
+NEGATIVE PROMPT
+helmet, headgear, goggles, face occlusion, over-retouched, plastic/waxy skin, blurry, noisy, low-res, muddy gradients, banding beyond 4–6 tone steps, distorted anatomy, extra limbs, watermark, logos, text, heavy vignette, oversaturated orange cast, altered eye/lip size, photographic texture look.
+
+OUTPUT
+Produce EXACTLY ONE high-resolution square image (the SUBJECT above), clean edges, consistent likeness with the references.
