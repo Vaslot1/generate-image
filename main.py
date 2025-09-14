@@ -9,7 +9,7 @@ load_dotenv()
 
 OPENROUTER_API_BASE = "https://openrouter.ai/api/v1"
 MODEL = "google/gemini-2.5-flash-image-preview"
-PROMPT_FILE = os.path.join('prompt.txt')
+PROMT_FILE = 'prompt.txt'
 RESULT_DIR = 'result'
 SOURCE_DIR = 'source'
 
