@@ -14,7 +14,7 @@ RESULT_DIR = 'result'
 SOURCE_DIR = 'source'
 
 
-def get_promt(file_path: str) -> str:
+def get_prompt(file_path: str) -> str:
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
@@ -82,7 +82,7 @@ def main():
     os.makedirs(RESULT_DIR, exist_ok=True)
     
     try:
-        prompt = get_promt(PROMPT_FILE)
+        prompt = get_prompt(PROMPT_FILE)
         
         print(f"Encoding source image: {source_image_path}")
         image_base64 = encode_image_to_base64(source_image_path)

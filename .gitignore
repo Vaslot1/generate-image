@@ -3,6 +3,7 @@ venv/
 
 # IDE project files
 .idea/
+.gemini/
 
 # Python cache
 __pycache__/
